@@ -1,4 +1,4 @@
-Write a program to calculate Fibonacci numbers.
+This is a program to calculate Fibonacci numbers, and will:
 • Display the program title and programmer’s name. Then get the user’s name, and greet the user.
 • Prompt the user to enter the number of Fibonacci terms to be displayed. Advise the user to enter an integer in the range [1 .. 46].
 • Get and validate the user input (n).
